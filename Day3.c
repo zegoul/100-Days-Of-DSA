@@ -2,7 +2,7 @@
 
 // Input:
 // - First line: integer n (array size)
-// - Second line: n space-separated integers
+// -Second line: n space-separated integers
 // - Third line: integer k (key to search)
 
 // Output:
